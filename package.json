@@ -1,6 +1,6 @@
 {
   "name": "empty-validator",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is a node_module package to validate empty data",
   "main": "index.js",
   "scripts": {
